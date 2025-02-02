@@ -1,5 +1,5 @@
 public class MixMatch {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         
         String name = "Sam";
         System.out.println(name + ": String is for a sequence of characters");
