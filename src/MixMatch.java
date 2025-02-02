@@ -24,5 +24,8 @@ public class MixMatch {
         
         boolean true_or_false = true; 
         System.out.println(true_or_false + ": Boolean stores true or false");
+
+        // Outputting multiple variables with a single print method.
+        System.out.println('\n' + name + star + " is " + int_num + " years old.");
     }
 }
